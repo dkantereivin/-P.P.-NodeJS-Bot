@@ -14,4 +14,4 @@ client.on('guildMemberAdd', (user: Discord.User) => {
     user.send(`Welcome to ${serverName}!\nPlease read the rules in the #${rulesChannel} channel!`)
 });
 
-client.login("Njk0OTkxOTQyMjAyODE4NjMy.XoTrtA.N0TBkRWzCdvAl00Oa4w-dKiUHHw");
+client.login("token");
